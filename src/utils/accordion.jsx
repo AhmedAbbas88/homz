@@ -5,19 +5,19 @@ const data = [
     icon: <HiShieldCheck/>,
     heading: "Best interest rates on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "The minimum deposit amount for Savings Certificate is EGP 10,000. Savings Certificates are issued in multiples of EGP 1,000.",
   },
   {
     icon: <MdCancel />,
     heading: "Prevent unstable prices",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "If your argument is that RE prices are out of control, or rising too rapidly for many first timers to even enter the market, then I’m not 100% unsympathetic. Gone are the days a married couple on a single teacher’s salary can buy a bungalow in San Diego, CA.",
   },
   {
     icon: <MdAnalytics />,
     heading: "Best price on the market",
     detail:
-      "Exercitation in fugiat est ut ad ea cupidatat ut in cupidatat occaecat ut occaecat consequat est minim minim esse tempor laborum consequat esse adipisicing eu reprehenderit enim.",
+      "When shopping for a home, it’s important to get a sense of the market by looking at recently sold homes, comparable homes on the market and available for viewing, and comparables taken off the market because they didn’t sell.",
   },
 ];
 export default data;

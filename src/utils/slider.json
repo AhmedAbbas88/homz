@@ -1,38 +1,62 @@
 [
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Apartment",
+    "companyName": "BEVERLY HILLS",
+    "price": "3,800,000",
+    "detail": "Fully Finished apartment prime view in Six West inside Beverly Hills by Sodic",
+    "location": "Six West, Beverly Hills, Sheikh Zayed, Giza",
+    "image": "./r1.png",
+    "locationLink": "https://maps.app.goo.gl/arTzFV6KL6yNqqSo8",
+    "i": "1"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Twin House",
+    "companyName": "PALM HILLS",
+    "price": "95,000,000",
+    "detail": "Twin House 600M FOR SALE In PK1 - good location 4 bedrooms + living",
+    "location": "Palm Hills Kattameya, New Cairo City",
+    "image": "./r2.png",
+    "locationLink": "https://maps.app.goo.gl/oSv5SgZnYukevdz7A",
+    "i": "2"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Villa",
+    "companyName": "ZED EAST",
+    "price": "58,000,000",
+    "detail": "Villa for sale in Zed East New Cairo, ultra super luxury finishing",
+    "location": "Zed East, 5th settlement, New Cairo City ",
+    "image": "./r3.png",
+    "locationLink": "https://maps.app.goo.gl/ZZsfzyg1See33sx36",
+    "i": "3"
   },
   {
-    "name": "Aliva Priva Jardin",
-    "price": "47,043",
-    "detail": "Jakarta Garden City Street, Cakung. Pulo Gadung, Jakarta Timur, DKI Jakarta",
-    "image": "./r1.png"
+    "name": "Ivilla",
+    "companyName": "MOUNTAIN VIEW",
+    "price": "12,000,000",
+    "detail": "175m - New Launch - Fields Park - 5% over 9 years",
+    "location": "Mountain View Icity October, 6th October, Giza",
+    "image": "./r4.png",
+    "locationLink": "https://maps.app.goo.gl/2s7aaKHS38Rrfp9M9",
+    "i": "4"
   },
   {
-    "name": "Asatti Garden City",
-    "price": "66,353",
-    "detail": "Pahlawan Street XVII No.215, Cinangka, Sawangan, Depok, Jawa Barat",
-    "image": "./r2.png"
+    "name": "Chalet",
+    "companyName": "MAZARINE",
+    "price": "8,100,000",
+    "detail": "appartmeant with panoramic view on the sea, Payment methods: 5% down payment",
+    "location": "Mazarine, New Alamein City, North Coast",
+    "image": "./r5.png",
+    "locationLink": "https://maps.app.goo.gl/y1FaGGExGMe5uCNq5",
+    "i": "5"
   },
   {
-    "name": "Citralan Puri Serang",
-    "price": "35,853",
-    "detail": "Ruko Puri Indah Residence Block A7, Lingkar Street, Ciracas, Serang, Banten",
-    "image": "./r3.png"
+    "name": "Duplex",
+    "companyName": "GREEN AVENUE",
+    "price": "10,773,000",
+    "detail": "Own your D Villa Now in Green Avenue,In New Administrative Capital",
+    "location": "Green Avenue, New Capital Compounds, Cairo",
+    "image": "./r6.png",
+    "locationLink": "https://maps.app.goo.gl/thW9vYXC8NMP2nVw8",
+    "i": "6"
   }
 ]
